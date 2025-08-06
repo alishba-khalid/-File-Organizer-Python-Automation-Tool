@@ -1,12 +1,12 @@
 
-### 📂 File Organizer – Python Automation Tool
+###  File Organizer – Python Automation Tool
 
 Tired of a messy "Downloads" folder?
 This Python script automatically organizes files into folders by type — saving you time and boosting your productivity.
 
 
 
-### 🚀 Features
+### Features
 
 * Sorts files into folders (PDFs, Images, Videos, Music, Docs, etc.)
 * Automatically creates folders if they don't exist
@@ -15,7 +15,7 @@ This Python script automatically organizes files into folders by type — saving
 * Easy to customize or extend
 
 
-### 🧠 How It Works
+###  How It Works
 
 * You give the script a folder path
 * It scans all files
@@ -24,7 +24,7 @@ This Python script automatically organizes files into folders by type — saving
 
 
 
-### 🔧 Setup
+###  Setup
 
 1. Make sure you have Python installed (3.6+)
 2. Clone the repo
@@ -43,7 +43,7 @@ python file_organizer.py
 
 ---
 
-### 🛠 Tech Used
+###  Tech Used
 
 * Python 3
 * OS Module
@@ -51,7 +51,7 @@ python file_organizer.py
 
 ---
 
-### 💡 Use Cases
+###  Use Cases
 
 * Clean your **Downloads** folder
 * Organize old project folders
@@ -60,7 +60,7 @@ python file_organizer.py
 
 ---
 
-### 🤝 Author
+###  Author
 
 👩‍💻 **Alishba Khalid**
 Python Developer | Automation Enthusiast
